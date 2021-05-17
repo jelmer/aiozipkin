@@ -13,7 +13,7 @@ Package: python3-aiozipkin
 Depends: ${python3:Depends}, ${misc:Depends}
 Architecture: all
 Description: Distributed tracing instrumentation for asyncio application with zipkin
- aiozipkin is Python 3.6+ module that adds distributed tracing
+ aiozipkin is a Python module that adds distributed tracing
  capabilities from asyncio applications with zipkin (http://zipkin.io)
  server instrumentation.
  .
