@@ -2,16 +2,13 @@ Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: aiozipkin
 
 Files: *
-Copyright: Unknown
+Copyright: Nikolay Novik <nickolainovik@gmail.com> et al.
 License: Apache-2
-Comment: No explicit license found, using license(s) from:
- LICENSE
 
 Files: debian/*
-Copyright: Unknown
+Copyright: Jelmer Vernooĳ <jelmer@debian.org>
 License: Apache-2
-Comment: No explicit license found, using license(s) from:
- LICENSE
 
 License: Apache-2
-Comment: Add the corresponding license text here
+ On Debian systems the full text of the Apache License version 2
+ can be found in the `/usr/share/common-licenses/Apache-2.0' file.
