@@ -1,8 +1,0 @@
-aiohttp
-config
-hostname
-jaeger
-microservice
-microservices
-middleware
-zipkin
