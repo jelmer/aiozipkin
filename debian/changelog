@@ -1,4 +1,4 @@
-aiozipkin (1.1.0-1) UNRELEASED; urgency=low
+aiozipkin (1.1.0-1) unstable; urgency=low
 
   * Initial release. Closes: #988666
 
