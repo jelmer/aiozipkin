@@ -7,3 +7,4 @@ Source: python-aiozipkin
 Package: python3-aiozipkin
 Depends: ${python3:Depends}
 Architecture: all
+Description: Distributed tracing instrumentation for asyncio application with zipkin
