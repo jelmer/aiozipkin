@@ -7,10 +7,6 @@ License: Apache-2
 Comment: No explicit license found, using license(s) from:
  LICENSE
 
-Files: LICENSE
-Copyright: 2019, Nikolay Novik
-License: Apache-2
-
 Files: debian/*
 Copyright: Unknown
 License: Apache-2
